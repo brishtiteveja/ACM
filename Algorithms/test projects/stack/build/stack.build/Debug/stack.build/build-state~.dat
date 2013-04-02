@@ -1,0 +1,57 @@
+Tstack
+v7
+r0
+t334240968.321413
+cCheck dependencies
+cCompileC build/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/stack
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/Objects-normal/x86_64/stack.LinkFileList
+c000000004E3BE5470000000000000083
+t1312548167
+s131
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp
+c000000004E3BE547000000000000010D
+t1312548167
+s269
+i<iostream>
+i<stack>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334240967#334240967#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s334240967.842661
+e334240968.321141
+r0
+xCompileC
+xbuild/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp: In function 'int main()':
+o/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp:6: error: 'stack' was not declared in this scope
+o/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp:6: error: expected primary-expression before 'int'
+o/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp:6: error: expected `;' before 'int'
+o/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp:8: error: 's' was not declared in this scope
+lSLF07#2@82"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp334240967#334240968#0(583"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp: In function 'int main()':/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp:6: error: 'stack' was not declared in this scope/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp:6: error: expected primary-expression before 'int'/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp:6: error: expected `;' before 'int'/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp:8: error: 's' was not declared in this scope4(4@38"'stack' was not declared in this scope334240968#102#124#0(6@74"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp334240967#6#0#6#0#34"'*' was not declared in this scope0(4@40"Expected primary-expression before 'int'334240968#226#126#0(6@74"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp334240967#6#0#6#0#19"expected * before *0(4@25"Expected `;' before 'int'334240968#352#111#0(6@74"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp334240967#6#0#6#0#19"expected * before *0(4@34"'s' was not declared in this scope334240968#463#120#0(6@74"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp334240967#8#0#8#0#34"'*' was not declared in this scope0(0#0#74"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp7955997338297972736#1574"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/stack-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/stack-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/stack-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/stack-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/stack" normal x86_64
+r0
+

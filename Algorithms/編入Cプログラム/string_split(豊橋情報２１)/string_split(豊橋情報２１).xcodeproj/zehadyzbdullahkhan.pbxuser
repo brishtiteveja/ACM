@@ -1,0 +1,117 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F61BC3761395153100FAB7DC /* string_split(豊橋情報２１) */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* string_split(豊橋情報２１) */;
+		codeSenseManager = F61BC37C1395155000FAB7DC /* Code sense */;
+		executables = (
+			F61BC3761395153100FAB7DC /* string_split(豊橋情報２１) */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328537393;
+			PBXWorkspaceStateSaveDate = 328537393;
+		};
+		perUserProjectItems = {
+			F61BC37A1395153500FAB7DC /* PBXBookmark */ = F61BC37A1395153500FAB7DC /* PBXBookmark */;
+			F61BC3C01395636400FAB7DC /* PBXTextBookmark */ = F61BC3C01395636400FAB7DC /* PBXTextBookmark */;
+		};
+		sourceControlManager = F61BC37B1395155000FAB7DC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2448, 884}}";
+			sepNavSelRange = "{382, 0}";
+			sepNavVisRange = "{106, 1094}";
+			sepNavWindowFrame = "{{5, 81}, {1254, 697}}";
+		};
+	};
+	8DD76FA90486AB0100D96B5E /* string_split(豊橋情報２１) */ = {
+		activeExec = 0;
+		executables = (
+			F61BC3761395153100FAB7DC /* string_split(豊橋情報２１) */,
+		);
+	};
+	F61BC3761395153100FAB7DC /* string_split(豊橋情報２１) */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "string_split(豊橋情報２１)";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F61BC37A1395153500FAB7DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+	};
+	F61BC37B1395155000FAB7DC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F61BC37C1395155000FAB7DC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F61BC3C01395636400FAB7DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		name = "main.c: 8";
+		rLen = 0;
+		rLoc = 382;
+		rType = 0;
+		vrLen = 1094;
+		vrLoc = 106;
+	};
+}

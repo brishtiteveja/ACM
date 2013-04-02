@@ -1,0 +1,76 @@
+TBM string search
+v7
+r0
+t318911769.574657
+cCheck dependencies
+cCompileC "build/BM string search.build/Debug/BM string search.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug/BM string search" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/Objects-normal/x86_64/BM string search.LinkFileList
+c000000004D51FD990000000000000096
+t1297218969
+s150
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/Objects-normal/x86_64/main.o
+t1297218969
+s5128
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug/BM string search
+t1297218969
+s9624
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/main.c
+c000000004D51FD9900000000000006EE
+t1297218969
+s1774
+i<stdio.h>
+i<string.h>
+i<limits.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318911769#318911769#0(0"0(0#1#0"8618019712#0"0#
+
+CCompileC "build/BM string search.build/Debug/BM string search.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s318911769.425917
+e318911769.559182
+r1
+xCompileC
+xbuild/BM string search.build/Debug/BM string search.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/main.c318911769#318911769#0(0"0(0#0#69"/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/main.c8618621664#1718"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/BM string search-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/BM string search-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/BM string search-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/BM string search-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/main.c" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug/BM string search" normal x86_64
+s318911769.559283
+e318911769.574610
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug/BM string search
+xnormal
+xx86_64
+lSLF07#2@96"Link /Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug/BM string search318911769#318911769#0(0"0(0#0#0"8615160032#664"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/BM string search.build/Debug/BM string search.build/Objects-normal/x86_64/BM string search.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/BM string search/build/Debug/BM string search"0#
+

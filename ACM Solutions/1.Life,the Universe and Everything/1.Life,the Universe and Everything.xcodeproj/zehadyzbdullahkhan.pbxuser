@@ -1,0 +1,116 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F6440B5A1464556300D4AD89 /* 1.Life,the Universe and Everything */;
+		activeTarget = 8DD76F620486A84900D96B5E /* 1.Life,the Universe and Everything */;
+		codeSenseManager = F6440B5F1464558300D4AD89 /* Code sense */;
+		executables = (
+			F6440B5A1464556300D4AD89 /* 1.Life,the Universe and Everything */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 342119779;
+			PBXWorkspaceStateSaveDate = 342119779;
+		};
+		perUserProjectItems = {
+			F6440B8314645E0D00D4AD89 /* PBXBookmark */ = F6440B8314645E0D00D4AD89 /* PBXBookmark */;
+			F6440B8414645E0D00D4AD89 /* PBXTextBookmark */ = F6440B8414645E0D00D4AD89 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F6440B5E1464558300D4AD89 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 150}";
+			sepNavVisRange = "{0, 151}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* 1.Life,the Universe and Everything */ = {
+		activeExec = 0;
+		executables = (
+			F6440B5A1464556300D4AD89 /* 1.Life,the Universe and Everything */,
+		);
+	};
+	F6440B5A1464556300D4AD89 /* 1.Life,the Universe and Everything */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "1.Life,the Universe and Everything";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F6440B5E1464558300D4AD89 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F6440B5F1464558300D4AD89 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F6440B8314645E0D00D4AD89 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+	};
+	F6440B8414645E0D00D4AD89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 150;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 151;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,84 @@
+Tstruct node
+v7
+r0
+t328197922.814530
+cCheck dependencies
+cCompileC "build/struct node.build/Debug/struct node.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/Debug/struct node
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/struct node.build/Debug/struct node.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/struct node.build/Debug/struct node.build/Objects-normal/x86_64/struct node.LinkFileList
+c000000004DDFAFA200000000000000A4
+t1306505122
+s164
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c
+c000000004DDFAFA2000000000000051B
+t1306505122
+s1307
+i<stdio.h>
+i<stdilib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328197922#328197922#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC "build/struct node.build/Debug/struct node.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s328197922.580724
+e328197922.814408
+r0
+xCompileC
+xbuild/struct node.build/Debug/struct node.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:2:21: error: stdilib.h: No such file or directory
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:8: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'node'
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c: In function 'make_node':
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:18: warning: implicit declaration of function 'malloc'
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:18: warning: incompatible implicit declaration of built-in function 'malloc'
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:18: error: invalid application of 'sizeof' to incomplete type 'struct node' 
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:19: error: dereferencing pointer to incomplete type
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:20: error: dereferencing pointer to incomplete type
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:20: error: 'op' undeclared (first use in this function)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:20: error: (Each undeclared identifier is reported only once
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:20: error: for each function it appears in.)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:21: error: dereferencing pointer to incomplete type
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:22: error: dereferencing pointer to incomplete type
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:23: error: dereferencing pointer to incomplete type
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c: In function 'print_op':
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:33: error: dereferencing pointer to incomplete type
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c: At top level:
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:52: error: expected ')' before 'node'
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c: In function 'main':
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:69: error: 'strunct' undeclared (first use in this function)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:69: error: expected ';' before 'node'
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:70: error: 'n1' undeclared (first use in this function)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:71: error: 'n2' undeclared (first use in this function)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:72: error: 'n3' undeclared (first use in this function)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:73: error: 'n4' undeclared (first use in this function)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:74: error: 'n5' undeclared (first use in this function)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:76: warning: implicit declaration of function 'print_tree'
+lSLF07#2@101"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#328197922#0(3907"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:2:21: error: stdilib.h: No such file or directory/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:8: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'node'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c: In function 'make_node':/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:18: warning: implicit declaration of function 'malloc'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:18: warning: incompatible implicit declaration of built-in function 'malloc'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:18: error: invalid application of 'sizeof' to incomplete type 'struct node' /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:19: error: dereferencing pointer to incomplete type/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:20: error: dereferencing pointer to incomplete type/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:20: error: 'op' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:20: error: (Each undeclared identifier is reported only once/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:20: error: for each function it appears in.)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:21: error: dereferencing pointer to incomplete type/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:22: error: dereferencing pointer to incomplete type/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:23: error: dereferencing pointer to incomplete type/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c: In function 'print_op':/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:33: error: dereferencing pointer to incomplete type/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c: At top level:/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:52: error: expected ')' before 'node'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c: In function 'main':/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:69: error: 'strunct' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:69: error: expected ';' before 'node'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:70: error: 'n1' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:71: error: 'n2' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:72: error: 'n3' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:73: error: 'n4' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:74: error: 'n5' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c:76: warning: implicit declaration of function 'print_tree'22(4@36"Stdilib.h: No such file or directory328197922#0#126#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#2#0#2#0#28"*: No such file or directory0(4@62"Expected '=', ',', ';', 'asm' or '__attribute__' before 'node'328197922#126#149#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#8#0#8#0#19"expected * before *0(22@41"Implicit declaration of function 'malloc'328197922#377#131#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#18#0#18#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'malloc'328197922#508#153#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#18#0#18#0#0"0(4@65"Invalid application of 'sizeof' to incomplete type 'struct node' 328197922#661#153#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#18#0#18#0#0"0(4@40"Dereferencing pointer to incomplete type328197922#814#128#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#19#0#19#0#0"0(4@40"Dereferencing pointer to incomplete type328197922#942#128#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#20#0#20#0#0"0(4@44"'op' undeclared (first use in this function)328197922#1070#132#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#20#0#20#0#43"'*' undeclared (first use in this function)0(4@40"Dereferencing pointer to incomplete type328197922#1460#128#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#21#0#21#0#0"0(4@40"Dereferencing pointer to incomplete type328197922#1588#128#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#22#0#22#0#0"0(4@40"Dereferencing pointer to incomplete type328197922#1716#128#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#23#0#23#0#0"0(4@40"Dereferencing pointer to incomplete type328197922#1945#128#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#33#0#33#0#0"0(23@13"At top level:328197922#2073#91#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#0#0#0#0#0"0(4@26"Expected ')' before 'node'328197922#2164#114#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#52#0#52#0#19"expected * before *0(4@49"'strunct' undeclared (first use in this function)328197922#2375#137#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#69#0#69#0#43"'*' undeclared (first use in this function)0(4@26"Expected ';' before 'node'328197922#2512#114#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#69#0#69#0#19"expected * before *0(4@44"'n1' undeclared (first use in this function)328197922#2626#132#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#70#0#70#0#43"'*' undeclared (first use in this function)0(4@44"'n2' undeclared (first use in this function)328197922#2758#132#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#71#0#71#0#43"'*' undeclared (first use in this function)0(4@44"'n3' undeclared (first use in this function)328197922#2890#132#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#72#0#72#0#43"'*' undeclared (first use in this function)0(4@44"'n4' undeclared (first use in this function)328197922#3022#132#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#73#0#73#0#43"'*' undeclared (first use in this function)0(4@44"'n5' undeclared (first use in this function)328197922#3154#132#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#74#0#74#0#43"'*' undeclared (first use in this function)0(22@45"Implicit declaration of function 'print_tree'328197922#3286#135#0(6@93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c328197922#76#0#76#0#36"implicit declaration of function '*'0(0#0#93"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c32651591222767840#1892"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/struct node.build/Debug/struct node.build/struct node-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/struct node.build/Debug/struct node.build/struct node-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/struct node.build/Debug/struct node.build/struct node-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/struct node.build/Debug/struct node.build/struct node-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/struct node.build/Debug/struct node.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/struct node.build/Debug/struct node.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/main.c" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/struct node.build/Debug/struct node.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/struct node/build/Debug/struct node" normal x86_64
+r0
+

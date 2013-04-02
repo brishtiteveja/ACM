@@ -1,0 +1,56 @@
+Tstring_split(豊橋情報２１)
+v7
+r0
+t328538760.774056
+cCheck dependencies
+cCompileC build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/string_split(豊橋情報２１)
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/string_split(豊橋情報２１).LinkFileList
+c000000004DE4E30800000000000000E3
+t1306845960
+s227
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c
+c000000004DE4E30800000000000003B5
+t1306845960
+s949
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328538760#328538760#0(0"0(0#1#0"9007645938942056#0"0#
+
+CCompileC build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328538760.729194
+e328538760.773987
+r0
+xCompileC
+xbuild/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c328538760#328538760#0(1179"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c: In function 'split':/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c:17: warning: implicit declaration of function 'malloc'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c:17: warning: incompatible implicit declaration of built-in function 'malloc'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c:37: error: 'stings' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c:37: error: (Each undeclared identifier is reported only once/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c:37: error: for each function it appears in.)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c:53: warning: control reaches end of non-void function4(22@41"Implicit declaration of function 'malloc'328538760#107#140#0(6@114"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c328538760#17#0#17#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'malloc'328538760#247#162#0(6@114"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c328538760#17#0#17#0#0"0(4@48"'stings' undeclared (first use in this function)328538760#409#145#0(6@114"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c328538760#37#0#37#0#43"'*' undeclared (first use in this function)0(22@40"Control reaches end of non-void function328538760#830#139#0(6@114"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c328538760#53#0#53#0#40"control reaches end of non-void function0(0#0#114"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c32088645568757808#2481"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/string_split(豊橋情報２１)-generated-files.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/string_split(豊橋情報２１)-own-target-headers.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/string_split(豊橋情報２１)-all-target-headers.hmap -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/string_split(豊橋情報２１)-project-headers.hmap -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/include -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/DerivedSources/x86_64 -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/DerivedSources -c /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/string_split(豊橋情報２１) normal x86_64
+r0
+

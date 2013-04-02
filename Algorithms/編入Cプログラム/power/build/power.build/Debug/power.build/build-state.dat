@@ -1,0 +1,64 @@
+Tpower
+v7
+r0
+t328209003.922466
+cCheck dependencies
+cCompileC build/power.build/Debug/power.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug/power normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug/power
+t1306516180
+s9528
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/Objects-normal/x86_64/main.o
+t1306516180
+s4512
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/Objects-normal/x86_64/power.LinkFileList
+c000000004DDFD7890000000000000092
+t1306515337
+s146
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/main.c
+c000000004DDFDAC500000000000001F4
+t1306516165
+s500
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328209003#328209003#0(0"0(0#1#0"8616505184#0"0#
+
+CCompileC build/power.build/Debug/power.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328208980.080791
+e328208980.114799
+r1
+xCompileC
+xbuild/power.build/Debug/power.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/main.c328208980#328208980#0(0"0(0#0#87"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/main.c8617690528#1696"    cd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/power-generated-files.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/power-own-target-headers.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/power-all-target-headers.hmap -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/power-project-headers.hmap -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug/include -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/DerivedSources/x86_64 -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/DerivedSources -c /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/main.c -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug/power normal x86_64
+s328208980.114881
+e328208980.131589
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug/power
+xnormal
+xx86_64
+lSLF07#2@103"Link /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug/power328208980#328208980#0(0"0(0#0#0"8616944832#700"    cd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug -filelist /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/power.build/Debug/power.build/Objects-normal/x86_64/power.LinkFileList -mmacosx-version-min=10.6 -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/power/build/Debug/power0#
+

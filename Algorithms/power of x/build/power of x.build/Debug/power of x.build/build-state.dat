@@ -1,0 +1,64 @@
+Tpower of x
+v7
+r0
+t326183181.016190
+cCheck dependencies
+cCompileC "build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x
+t1304490381
+s9152
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o
+t1304490380
+s3680
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/power of x.LinkFileList
+c000000004DC0EC3C0000000000000084
+t1304489020
+s132
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c
+c000000004DC0F18C0000000000000215
+t1304490380
+s533
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326183180#326183180#0(0"0(0#1#0"8614633920#0"0#
+
+CCompileC "build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s326183180.818925
+e326183180.995822
+r1
+xCompileC
+xbuild/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c326183180#326183181#0(0"0(0#0#63"/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c8614650560#1544"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/power of x-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/power of x-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/power of x-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/power of x-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x" normal x86_64
+s326183180.995891
+e326183181.016144
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x
+xnormal
+xx86_64
+lSLF07#2@84"Link /Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x326183180#326183181#0(0"0(0#0#0"8611394816#610"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/power of x.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x"0#
+

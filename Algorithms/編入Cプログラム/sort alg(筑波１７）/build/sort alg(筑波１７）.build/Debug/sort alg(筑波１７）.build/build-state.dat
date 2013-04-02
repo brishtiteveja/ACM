@@ -1,0 +1,64 @@
+Tsort alg(筑波１７）
+v7
+r0
+t328720170.771680
+cCheck dependencies
+cCompileC "build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/sort alg(筑波１７）" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/sort alg(筑波１７）
+t1307027370
+s9280
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o
+t1307027370
+s3716
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/sort alg(筑波１７）.LinkFileList
+c000000004DE7A37E00000000000000CB
+t1307026302
+s203
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c
+c000000004DE7A7AA0000000000000290
+t1307027370
+s656
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328720170#328720170#0(0"0(0#1#0"8611681248#0"0#
+
+CCompileC "build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s328720170.725269
+e328720170.756467
+r1
+xCompileC
+xbuild/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c328720170#328720170#0(0"0(0#0#106"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c8611888896#2269"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/sort alg(筑波１７）-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/sort alg(筑波１７）-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/sort alg(筑波１７）-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/sort alg(筑波１７）-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/sort alg(筑波１７）" normal x86_64
+s328720170.756570
+e328720170.771598
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/sort alg(筑波１７）
+xnormal
+xx86_64
+lSLF07#2@141"Link /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/sort alg(筑波１７）328720170#328720170#0(0"0(0#0#0"8611795296#881"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/sort alg(筑波１７）.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/sort alg(筑波１７）"0#
+

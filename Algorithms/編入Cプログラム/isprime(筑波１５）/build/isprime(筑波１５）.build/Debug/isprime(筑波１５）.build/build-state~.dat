@@ -1,0 +1,59 @@
+Tisprime(筑波１５）
+v7
+r0
+t328722062.522130
+cCheck dependencies
+cCompileC build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/Debug/isprime(筑波１５）
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/Objects-normal/x86_64/isprime(筑波１５）.LinkFileList
+c000000004DE7AF0E00000000000000C8
+t1307029262
+s200
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c
+c000000004DE7AF0E00000000000000DB
+t1307029262
+s219
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328722062#328722062#0(0"0(0#1#0"8611469440#0"0#
+
+CCompileC build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328722062.468047
+e328722062.522051
+r0
+xCompileC
+xbuild/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c: In function 'isprime':
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c:7: warning: comparison between pointer and integer
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c:7: error: label 'n' used but not defined
+lSLF07#2@113"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c328722062#328722062#0(434"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c: In function 'isprime':/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c:7: warning: comparison between pointer and integer/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c:7: error: label 'n' used but not defined2(22@38"Comparison between pointer and integer328722062#102#129#0(6@105"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c328722062#7#0#7#0#0"0(4@30"Label 'n' used but not defined328722062#231#119#0(6@105"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c328722062#7#0#7#0#30"label '*' used but not defined0(0#0#105"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c8612832032#2220"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/isprime(筑波１５）-generated-files.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/isprime(筑波１５）-own-target-headers.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/isprime(筑波１５）-all-target-headers.hmap -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/isprime(筑波１５）-project-headers.hmap -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/Debug -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/Debug/include -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/DerivedSources/x86_64 -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/DerivedSources -c /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/main.c -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/isprime(筑波１５）.build/Debug/isprime(筑波１５）.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/isprime(筑波１５）/build/Debug/isprime(筑波１５） normal x86_64
+r0
+

@@ -1,0 +1,59 @@
+TATM
+v7
+r0
+t342178322.099312
+cCheck dependencies
+cCompileC build/ATM.build/Debug/ATM.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug/ATM normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/Objects-normal/x86_64/ATM.LinkFileList
+c000000004EB5009C0000000000000073
+t1320485020
+s115
+
+N/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/Objects-normal/x86_64/main.o
+t1320485522
+s69928
+
+N/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug/ATM
+t1320485522
+s10608
+
+N/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/main.cpp
+c000000004EB50291000000000000012B
+t1320485521
+s299
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342178321#342178321#0(0"0(0#1#0"8623806688#0"0#
+
+CCompileC build/ATM.build/Debug/ATM.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s342178321.673887
+e342178322.078014
+r1
+xCompileC
+xbuild/ATM.build/Debug/ATM.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/main.cpp342178321#342178322#0(0"0(0#0#62"/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/main.cpp8622991584#1384"    cd /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/ATM-generated-files.hmap -I/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/ATM-own-target-headers.hmap -I/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/ATM-all-target-headers.hmap -iquote /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/ATM-project-headers.hmap -F/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug -I/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug/include -I/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/DerivedSources/x86_64 -I/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/DerivedSources -c /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/main.cpp -o /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug/ATM normal x86_64
+s342178322.078732
+e342178322.099264
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug/ATM
+xnormal
+xx86_64
+lSLF07#2@74"Link /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug/ATM342178322#342178322#0(0"0(0#0#0"8623141280#557"    cd /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug -F/Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug -filelist /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/ATM.build/Debug/ATM.build/Objects-normal/x86_64/ATM.LinkFileList -mmacosx-version-min=10.6 -o /Users/zehadyzbdullahkhan/Documents/過去問/ACM/ATM/build/Debug/ATM0#
+

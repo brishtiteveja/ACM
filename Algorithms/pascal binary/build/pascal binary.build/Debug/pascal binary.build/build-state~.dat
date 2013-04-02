@@ -1,0 +1,70 @@
+Tpascal binary
+v7
+r0
+t324062422.936442
+cCheck dependencies
+cCompileC "build/pascal binary.build/Debug/pascal binary.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug/pascal binary" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug/pascal binary
+t1302369622
+s9136
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/Objects-normal/x86_64/main.o
+t1302369618
+s3680
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/Objects-normal/x86_64/pascal binary.LinkFileList
+c000000004DA09556000000000000008D
+t1302369622
+s141
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/main.c
+c000000004DA095520000000000000205
+t1302369618
+s517
+i<stdio.h>
+i<stdlib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324062422#324062422#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC "build/pascal binary.build/Debug/pascal binary.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s324062422.461373
+e324062422.490808
+r1
+xCompileC
+xbuild/pascal binary.build/Debug/pascal binary.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/main.c324062422#324062422#0(0"0(0#0#66"/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/main.c7939128661845044224#1631"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/pascal binary-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/pascal binary-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/pascal binary-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/pascal binary-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/main.c" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug/pascal binary" normal x86_64
+s324062422.490887
+e324062422.936387
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug/pascal binary
+xnormal
+xx86_64
+lSLF07#2@90"Link /Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug/pascal binary324062422#324062422#0(0"0(0#0#0"8616136800#637"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/pascal binary.build/Debug/pascal binary.build/Objects-normal/x86_64/pascal binary.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/pascal binary/build/Debug/pascal binary"0#
+

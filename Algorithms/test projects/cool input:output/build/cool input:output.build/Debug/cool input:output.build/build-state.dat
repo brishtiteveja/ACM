@@ -1,0 +1,64 @@
+Tcool input:output
+v7
+r0
+t334384586.968709
+cCheck dependencies
+cCompileC "build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/cool input:output" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/cool input:output
+t1312691641
+s9456
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/cool input:output.LinkFileList
+c000000004E3D039A00000000000000A7
+t1312621466
+s167
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o
+t1312691641
+s4652
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp
+c000000004E3E4C0B00000000000000FE
+t1312705547
+s254
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334384586#334384586#0(0"0(0#1#0"8614326368#0"0#
+
+CCompileC "build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s334384441.037080
+e334384441.115707
+r1
+xCompileC
+xbuild/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp334384441#334384441#0(0"0(0#0#86"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp8609166848#1922"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/cool input:output-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/cool input:output-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/cool input:output-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/cool input:output-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/cool input:output" normal x86_64
+s334384441.115802
+e334384441.143175
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/cool input:output
+xnormal
+xx86_64
+lSLF07#2@112"Link /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/cool input:output334384441#334384441#0(0"0(0#0#0"8613999488#743"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/cool input:output.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/cool input:output"0#
+

@@ -1,0 +1,70 @@
+TKMP string search
+v7
+r0
+t318908281.641903
+cCheck dependencies
+cCompileC "build/KMP string search.build/Debug/KMP string search.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug/KMP string search" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug/KMP string search
+t1297215438
+s9680
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/Objects-normal/x86_64/KMP string search.LinkFileList
+c000000004D51E1070000000000000099
+t1297211655
+s153
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/Objects-normal/x86_64/main.o
+t1297215438
+s5392
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/main.c
+c000000004D51EFCE00000000000006B4
+t1297215438
+s1716
+i<stdio.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318908281#318908281#0(0"0(0#1#0"8614138176#0"0#
+
+CCompileC "build/KMP string search.build/Debug/KMP string search.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s318908238.157500
+e318908238.216512
+r1
+xCompileC
+xbuild/KMP string search.build/Debug/KMP string search.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/main.c318908238#318908238#0(0"0(0#0#70"/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/main.c8617402304#1747"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/KMP string search-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/KMP string search-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/KMP string search-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/KMP string search-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/main.c" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug/KMP string search" normal x86_64
+s318908238.216620
+e318908238.236970
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug/KMP string search
+xnormal
+xx86_64
+lSLF07#2@98"Link /Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug/KMP string search318908238#318908238#0(0"0(0#0#0"8617831680#673"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/KMP string search.build/Debug/KMP string search.build/Objects-normal/x86_64/KMP string search.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/KMP string search/build/Debug/KMP string search"0#
+

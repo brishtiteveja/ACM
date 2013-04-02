@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;mergesort/merge&apos; to &apos;merge.c&apos;" description="Rename resource &apos;merge&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="merge" name="merge.c" stamp="1290083294070" updateReferences="true"/>
+</session>

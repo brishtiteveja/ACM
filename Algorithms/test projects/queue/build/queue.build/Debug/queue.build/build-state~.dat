@@ -1,0 +1,66 @@
+Tqueue
+v7
+r0
+t334296192.340506
+cCheck dependencies
+cCompileC build/queue.build/Debug/queue.build/Objects-normal/x86_64/main.o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug/queue" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug/queue
+t1312603392
+s41672
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/Objects-normal/x86_64/main.o
+t1312603392
+s121500
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/Objects-normal/x86_64/queue.LinkFileList
+c000000004E3CBCFF0000000000000083
+t1312603391
+s131
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/main.cpp
+c000000004E3CBCFF0000000000000167
+t1312603391
+s359
+i<iostream>
+i<stdio.h>
+i<queue>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334296191#334296191#0(0"0(0#1#0"8618502400#0"0#
+
+CCompileC build/queue.build/Debug/queue.build/Objects-normal/x86_64/main.o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s334296191.100465
+e334296192.089993
+r1
+xCompileC
+xbuild/queue.build/Debug/queue.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/main.cpp334296191#334296192#0(0"0(0#0#74"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/main.cpp8618914464#1574"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/queue-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/queue-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/queue-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/queue-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug/queue" normal x86_64
+s334296192.090088
+e334296192.340464
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug/queue
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug/queue334296192#334296192#0(0"0(0#0#0"8618445984#635"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/queue.build/Debug/queue.build/Objects-normal/x86_64/queue.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/queue/build/Debug/queue"0#
+

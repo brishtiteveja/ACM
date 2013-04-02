@@ -1,0 +1,62 @@
+Tsort alg(筑波１７）
+v7
+r0
+t328719102.753796
+cCheck dependencies
+cCompileC "build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/sort alg(筑波１７）
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/sort alg(筑波１７）.LinkFileList
+c000000004DE7A37E00000000000000CB
+t1307026302
+s203
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c
+c000000004DE7A37E00000000000001E3
+t1307026302
+s483
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328719102#328719102#0(0"0(0#1#0"31244173394051168#0"0#
+
+CCompileC "build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s328719102.637140
+e328719102.753710
+r0
+xCompileC
+xbuild/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c: In function 'main':
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:10: error: 'N' undeclared (first use in this function)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:10: error: (Each undeclared identifier is reported only once
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:10: error: for each function it appears in.)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:11: error: 'data' undeclared (first use in this function)
+o/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:22: error: 'a' undeclared (first use in this function)
+lSLF07#2@114"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c328719102#328719102#0(937"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c: In function 'main':/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:10: error: 'N' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:10: error: (Each undeclared identifier is reported only once/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:10: error: for each function it appears in.)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:11: error: 'data' undeclared (first use in this function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c:22: error: 'a' undeclared (first use in this function)3(4@43"'N' undeclared (first use in this function)328719102#100#134#0(6@106"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c328719102#10#0#10#0#43"'*' undeclared (first use in this function)0(4@46"'data' undeclared (first use in this function)328719102#498#137#0(6@106"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c328719102#11#0#11#0#43"'*' undeclared (first use in this function)0(4@43"'a' undeclared (first use in this function)328719102#635#134#0(6@106"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c328719102#22#0#22#0#43"'*' undeclared (first use in this function)0(0#0#106"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c32651586931982452#2269"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/sort alg(筑波１７）-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/sort alg(筑波１７）-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/sort alg(筑波１７）-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/sort alg(筑波１７）-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/main.c" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/sort alg(筑波１７）.build/Debug/sort alg(筑波１７）.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/sort alg(筑波１７）/build/Debug/sort alg(筑波１７）" normal x86_64
+r0
+

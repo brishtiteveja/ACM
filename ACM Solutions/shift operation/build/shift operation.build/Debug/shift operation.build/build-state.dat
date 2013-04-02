@@ -1,0 +1,59 @@
+Tshift operation
+v7
+r0
+t343356088.451355
+cCheck dependencies
+cCompileC "build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/shift operation" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/shift operation
+t1321663288
+s10744
+
+N/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o
+t1321663288
+s67172
+
+N/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/shift operation.LinkFileList
+c000000004EC6F879000000000000008D
+t1321662585
+s141
+
+N/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp
+c000000004EC6FB3800000000000000E1
+t1321663288
+s225
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343356088#343356088#0(0"0(0#1#0"8600280416#0"0#
+
+CCompileC "build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343356088.102589
+e343356088.431912
+r1
+xCompileC
+xbuild/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp343356088#343356088#0(0"0(0#0#64"/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp8612197408#1644"    cd "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/shift operation-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/shift operation-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/shift operation-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/shift operation-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/shift operation" normal x86_64
+s343356088.431991
+e343356088.451308
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/shift operation
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/shift operation343356088#343356088#0(0"0(0#0#0"8618428992#625"    cd "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/shift operation.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/shift operation"0#
+

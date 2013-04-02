@@ -1,0 +1,14 @@
+
+**** Build of configuration Debug for project mergesort ****
+
+make all 
+Building file: ../merge.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"merge.d" -MT"merge.d" -o"merge.o" "../merge.c"
+Finished building: ../merge.c
+ 
+Building target: mergesort
+Invoking: MacOS X C Linker
+gcc  -o "mergesort"  ./merge.o   
+Finished building target: mergesort
+ 

@@ -1,0 +1,64 @@
+Tpower of x
+v7
+r0
+t326181821.490572
+cCheck dependencies
+cCompileC "build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x
+t1304489021
+s9152
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o
+t1304489020
+s3552
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/power of x.LinkFileList
+c000000004DC0EC3C0000000000000084
+t1304489020
+s132
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c
+c000000004DC0EC3C00000000000001D4
+t1304489020
+s468
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326181820#326181820#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s326181820.875053
+e326181821.008441
+r1
+xCompileC
+xbuild/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c326181820#326181821#0(233"/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c: In function 'main':/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c:33: warning: format '%f' expects type 'float *', but argument 2 has type 'double *'1(22@70"Format '%f' expects type 'float *', but argument 2 has type 'double *'326181821#85#148#0(6@63"/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c326181820#33#0#33#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#63"/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c3417213339966598656#1544"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/power of x-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/power of x-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/power of x-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/power of x-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/main.c" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x" normal x86_64
+s326181821.008521
+e326181821.490457
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x
+xnormal
+xx86_64
+lSLF07#2@84"Link /Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x326181821#326181821#0(0"0(0#0#0"8243126013478792192#610"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/power of x.build/Debug/power of x.build/Objects-normal/x86_64/power of x.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/power of x/build/Debug/power of x"0#
+

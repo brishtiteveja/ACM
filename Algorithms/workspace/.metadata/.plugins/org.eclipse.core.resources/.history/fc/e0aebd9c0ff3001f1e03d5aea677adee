@@ -1,0 +1,60 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+static int *buff;
+
+static void merge_sort(int x[],int left,int right){
+	
+    if (left<right) {
+		int center=(left+right)/2;
+		int i;
+		int j=0;
+		int k=left;
+		int p=0;
+		
+		merge_sort(x,left,center);
+		merge_sort(x,center+1,right);
+		
+		for (i=left; i<=center; i++) {
+			buff[p++]=x[i];
+		}
+		
+		while (i<=right && j<p) {
+			x[k++]=(buff[i]<=x[j])?buff[i++]:x[j++];
+		}
+		
+		while (j<p) {
+			x[k++]=buff[j++];
+		}		
+	}
+}
+
+int msort(int a[],int n){
+    if ((buff=(int*)calloc(n,sizeof(int)))==NULL) {
+		return -1;
+	}
+	merge_sort(a,0,n-1);
+	free(buff);
+	return 0;
+}
+
+int main (void) {
+
+    int i;
+	int n;
+	 int x[7];
+	//scanf("%d",&n);
+   
+	
+	
+	for (i=0; i<7; i++) {
+		printf("x[%d]=",i);
+		scanf("%d",&x[i]);
+	}
+	msort(x,n);
+	for (i=0; i<7; i++) {
+		printf("x[%d]=%d]\n",i,x[i]);
+	}
+	
+	return 0;
+}

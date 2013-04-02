@@ -1,0 +1,51 @@
+Tshift operation
+v7
+r0
+t343355385.983090
+cCheck dependencies
+cCompileC "build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/shift operation
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/shift operation.LinkFileList
+c000000004EC6F879000000000000008D
+t1321662585
+s141
+
+N/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp
+c000000004EC6F87900000000000000B9
+t1321662585
+s185
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343355385#343355385#0(0"0(0#1#0"8619425536#0"0#
+
+CCompileC "build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343355385.773129
+e343355385.983031
+r0
+xCompileC
+xbuild/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp343355385#343355385#0(345"/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp: In function 'int main(int, char* const*)':/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp:13: error: name lookup of 'i' changed for new ISO 'for' scoping/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp:7: error:   using obsolete binding at 'i'2(4@52"Name lookup of 'i' changed for new ISO 'for' scoping343355385#109#129#0(6@64"/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp343355385#13#0#13#0#0"0(4@29"Using obsolete binding at 'i'343355385#238#107#0(6@64"/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp343355385#7#0#7#0#0"0(0#0#64"/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp8620004960#1644"    cd "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/shift operation-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/shift operation-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/shift operation-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/shift operation-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/shift operation.build/Debug/shift operation.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/ACM/shift operation/build/Debug/shift operation" normal x86_64
+r0
+

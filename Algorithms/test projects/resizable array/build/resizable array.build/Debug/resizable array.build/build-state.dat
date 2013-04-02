@@ -1,0 +1,67 @@
+Tresizable array
+v7
+r0
+t334214870.163936
+cCheck dependencies
+cCompileC "build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/resizable array" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/resizable array
+t1312511406
+s44416
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o
+t1312511405
+s116612
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/resizable array.LinkFileList
+c000000004E3B555000000000000000A1
+t1312511312
+s161
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp
+c000000004E3B55AD000000000000023C
+t1312511405
+s572
+i<iostream>
+i<stdio.h>
+i<algorithm>
+i<vector>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334214870#334214870#0(0"0(0#1#0"8610119872#0"0#
+
+CCompileC "build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s334204205.441099
+e334204205.914740
+r1
+xCompileC
+xbuild/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204205#334204205#0(0"0(0#0#84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp8612923520#1864"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/resizable array-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/resizable array-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/resizable array-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/resizable array-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/resizable array" normal x86_64
+s334204205.914813
+e334204206.409367
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/resizable array
+xnormal
+xx86_64
+lSLF07#2@108"Link /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/resizable array334204205#334204206#0(0"0(0#0#0"8612306880#725"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/resizable array.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/resizable array"0#
+

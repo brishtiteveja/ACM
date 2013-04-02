@@ -1,0 +1,70 @@
+Tstring_split(豊橋情報２１)
+v7
+r0
+t328540027.452622
+cCheck dependencies
+cCompileC build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/string_split(豊橋情報２１) normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/string_split(豊橋情報２１)
+t1306847227
+s9424
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o
+t1306847227
+s4208
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/string_split(豊橋情報２１).LinkFileList
+c000000004DE4E30800000000000000E3
+t1306845960
+s227
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c
+c000000004DE52BE2000000000000056B
+t1306864610
+s1387
+i<stdio.h>
+i<stdlib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328540027#328540027#0(0"0(0#1#0"8614950528#0"0#
+
+CCompileC build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328540027.372983
+e328540027.435241
+r1
+xCompileC
+xbuild/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c328540027#328540027#0(0"0(0#0#114"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c8614877632#2481"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/string_split(豊橋情報２１)-generated-files.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/string_split(豊橋情報２１)-own-target-headers.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/string_split(豊橋情報２１)-all-target-headers.hmap -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/string_split(豊橋情報２１)-project-headers.hmap -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/include -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/DerivedSources/x86_64 -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/DerivedSources -c /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/main.c -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/string_split(豊橋情報２１) normal x86_64
+s328540027.435312
+e328540027.452578
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/string_split(豊橋情報２１)
+xnormal
+xx86_64
+lSLF07#2@157"Link /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/string_split(豊橋情報２１)328540027#328540027#0(0"0(0#0#0"8614556224#945"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug -filelist /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/string_split(豊橋情報２１).build/Debug/string_split(豊橋情報２１).build/Objects-normal/x86_64/string_split(豊橋情報２１).LinkFileList -mmacosx-version-min=10.6 -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/string_split(豊橋情報２１)/build/Debug/string_split(豊橋情報２１)0#
+

@@ -1,0 +1,66 @@
+Tlist container
+v7
+r0
+t334237769.880068
+cCheck dependencies
+cCompileC "build/list container.build/Debug/list container.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug/list container" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug/list container
+t1312544969
+s30496
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/Objects-normal/x86_64/list container.LinkFileList
+c000000004E3BD8C9000000000000009E
+t1312544969
+s158
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/Objects-normal/x86_64/main.o
+t1312544969
+s96556
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/main.cpp
+c000000004E3BD8AC0000000000000231
+t1312544940
+s561
+i<iostream>
+i<stdio.h>
+i<list>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334237769#334237769#0(0"0(0#1#0"8616362368#0"0#
+
+CCompileC "build/list container.build/Debug/list container.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s334237769.460541
+e334237769.859422
+r1
+xCompileC
+xbuild/list container.build/Debug/list container.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/main.cpp334237769#334237769#0(0"0(0#0#83"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/main.cpp8613001728#1835"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/list container-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/list container-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/list container-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/list container-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug/list container" normal x86_64
+s334237769.859585
+e334237769.880018
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug/list container
+xnormal
+xx86_64
+lSLF07#2@106"Link /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug/list container334237769#334237769#0(0"0(0#0#0"8610234496#716"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/list container.build/Debug/list container.build/Objects-normal/x86_64/list container.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/list container/build/Debug/list container"0#
+

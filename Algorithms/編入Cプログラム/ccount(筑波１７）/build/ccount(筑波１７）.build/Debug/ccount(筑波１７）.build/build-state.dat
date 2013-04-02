@@ -1,0 +1,64 @@
+Tccount(筑波１７）
+v7
+r0
+t327860596.296953
+cCheck dependencies
+cCompileC build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug/ccount(筑波１７） normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug/ccount(筑波１７）
+t1306167796
+s9224
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/Objects-normal/x86_64/ccount(筑波１７）.LinkFileList
+c000000004DDA89AF00000000000000C5
+t1306167727
+s197
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/Objects-normal/x86_64/main.o
+t1306167796
+s3416
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/main.c
+c000000004DDA89F40000000000000142
+t1306167796
+s322
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327860596#327860596#0(0"0(0#1#0"8612118144#0"0#
+
+CCompileC build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s327860596.221031
+e327860596.279347
+r1
+xCompileC
+xbuild/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/main.c327860596#327860596#0(0"0(0#0#104"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/main.c8614330976#2191"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/ccount(筑波１７）-generated-files.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/ccount(筑波１７）-own-target-headers.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/ccount(筑波１７）-all-target-headers.hmap -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/ccount(筑波１７）-project-headers.hmap -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug/include -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/DerivedSources/x86_64 -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/DerivedSources -c /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/main.c -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug/ccount(筑波１７） normal x86_64
+s327860596.279525
+e327860596.296892
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug/ccount(筑波１７）
+xnormal
+xx86_64
+lSLF07#2@137"Link /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug/ccount(筑波１７）327860596#327860596#0(0"0(0#0#0"8612564544#855"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug -filelist /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/ccount(筑波１７）.build/Debug/ccount(筑波１７）.build/Objects-normal/x86_64/ccount(筑波１７）.LinkFileList -mmacosx-version-min=10.6 -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/ccount(筑波１７）/build/Debug/ccount(筑波１７）0#
+

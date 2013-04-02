@@ -1,0 +1,57 @@
+Tcool input:output
+v7
+r0
+t334314266.944722
+cCheck dependencies
+cCompileC "build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/cool input:output
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/cool input:output.LinkFileList
+c000000004E3D039A00000000000000A7
+t1312621466
+s167
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp
+c000000004E3D039A00000000000000D8
+t1312621466
+s216
+i<iostream>
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334314266#334314266#0(0"0(0#1#0"31525334837231728#0"0#
+
+CCompileC "build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s334314266.636900
+e334314266.944439
+r0
+xCompileC
+xbuild/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp334314266#334314266#0(681"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp: In function 'int main()':/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp:7: error: 'N' was not declared in this scope/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp:8: error: 'i' was not declared in this scope/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp:9: warning: format '%[0-9' expects type 'char*', but argument 2 has type 'char (*)[100]'/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp:10: error: expected `;' before 'printf'4(4@34"'N' was not declared in this scope334314266#114#132#0(6@86"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp334314266#7#0#7#0#34"'*' was not declared in this scope0(4@34"'i' was not declared in this scope334314266#246#132#0(6@86"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp334314266#8#0#8#0#34"'*' was not declared in this scope0(22@76"Format '%[0-9' expects type 'char*', but argument 2 has type 'char (*)[100]'334314266#378#176#0(6@86"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp334314266#9#0#9#0#56"format '*' expects type '*', but argument * has type '*'0(4@28"Expected `;' before 'printf'334314266#554#127#0(6@86"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp334314266#10#0#10#0#19"expected * before *0(0#0#86"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp8391162080407676928#1922"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/cool input:output-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/cool input:output-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/cool input:output-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/cool input:output-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/cool input:output.build/Debug/cool input:output.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/cool input:output/build/Debug/cool input:output" normal x86_64
+r0
+

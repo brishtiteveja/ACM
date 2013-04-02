@@ -1,0 +1,56 @@
+TF(筑波大１５）
+v7
+r0
+t328266195.958841
+cCheck dependencies
+cCompileC build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/F(筑波大１５）
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/F(筑波大１５）.LinkFileList
+c000000004DE0BA5300000000000000BF
+t1306573395
+s191
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c
+c000000004DE0BA5300000000000000FB
+t1306573395
+s251
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328266195#328266195#0(0"0(0#1#0"8619799296#0"0#
+
+CCompileC build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328266195.954443
+e328266195.958784
+r0
+xCompileC
+xbuild/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c328266195#328266195#0(696"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c:3: error: 'N' undeclared here (not in a function)/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c: In function 'f':/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c:5: error: expected ';' before '!' token/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c: In function 'main':/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c:19: error: type of formal parameter 1 is incomplete3(4@39"'N' undeclared here (not in a function)328266195#0#123#0(6@102"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c328266195#3#0#3#0#39"'*' undeclared here (not in a function)0(4@29"Expected ';' before '!' token328266195#214#113#0(6@102"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c328266195#5#0#5#0#19"expected * before *0(4@40"Type of formal parameter 1 is incomplete328266195#421#125#0(6@102"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c328266195#19#0#19#0#0"0(0#0#102"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c8613510688#2133"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/F(筑波大１５）-generated-files.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/F(筑波大１５）-own-target-headers.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/F(筑波大１５）-all-target-headers.hmap -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/F(筑波大１５）-project-headers.hmap -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/include -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/DerivedSources/x86_64 -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/DerivedSources -c /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/F(筑波大１５） normal x86_64
+r0
+

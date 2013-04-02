@@ -1,0 +1,60 @@
+Tstack
+v7
+r0
+t334240983.805203
+cCheck dependencies
+cCompileC build/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/stack" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/stack
+t1312548182
+s41808
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o
+t1312548182
+s121900
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/Objects-normal/x86_64/stack.LinkFileList
+c000000004E3BE5470000000000000083
+t1312548167
+s131
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp
+c000000004E3BE5550000000000000122
+t1312548181
+s290
+i<iostream>
+i<stack>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334240983#334240983#0(0"0(0#1#0"8616668768#0"0#
+
+CCompileC build/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s334240981.896499
+e334240982.438242
+r1
+xCompileC
+xbuild/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp334240981#334240982#0(0"0(0#0#74"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp8616827104#1574"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/stack-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/stack-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/stack-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/stack-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/stack" normal x86_64
+s334240982.438332
+e334240982.666028
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/stack
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/stack334240982#334240982#0(0"0(0#0#0"8616488160#635"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/stack.build/Debug/stack.build/Objects-normal/x86_64/stack.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/stack/build/Debug/stack"0#
+

@@ -1,0 +1,76 @@
+TF(筑波大１５）
+v7
+r0
+t328721692.151256
+cCheck dependencies
+cCompileC build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/F(筑波大１５） normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/F(筑波大１５）
+t1307028892
+s9568
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/F(筑波大１５）.LinkFileList
+c000000004DE0BA5300000000000000BF
+t1306573395
+s191
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o
+t1307028892
+s4924
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c
+c000000004DE7AD9B00000000000003CE
+t1307028891
+s974
+i<stdio.h>
+i<math.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328721691#328721691#0(0"0(0#1#0"8611699104#0"0#
+
+CCompileC build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328721691.748275
+e328721692.135890
+r1
+xCompileC
+xbuild/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c328721691#328721692#0(0"0(0#0#102"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c8610199776#2133"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/F(筑波大１５）-generated-files.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/F(筑波大１５）-own-target-headers.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/F(筑波大１５）-all-target-headers.hmap -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/F(筑波大１５）-project-headers.hmap -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/include -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/DerivedSources/x86_64 -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/DerivedSources -c /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/main.c -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/F(筑波大１５） normal x86_64
+s328721692.135976
+e328721692.151210
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/F(筑波大１５）
+xnormal
+xx86_64
+lSLF07#2@133"Link /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/F(筑波大１５）328721692#328721692#0(0"0(0#0#0"8612860832#837"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug -filelist /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/F(筑波大１５）.build/Debug/F(筑波大１５）.build/Objects-normal/x86_64/F(筑波大１５）.LinkFileList -mmacosx-version-min=10.6 -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/F(筑波大１５）/build/Debug/F(筑波大１５）0#
+

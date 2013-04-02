@@ -1,0 +1,56 @@
+TGraph-Vertex(筑波２０年)
+v7
+r0
+t328260521.802566
+cCheck dependencies
+cCompileC build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Debug/Graph-Vertex(筑波２０年)
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Objects-normal/x86_64/Graph-Vertex(筑波２０年).LinkFileList
+c000000004DE0A42900000000000000DA
+t1306567721
+s218
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c
+c000000004DE0A42900000000000001BA
+t1306567721
+s442
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328260521#328260521#0(0"0(0#1#0"8602720992#0"0#
+
+CCompileC build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Objects-normal/x86_64/main.o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328260521.801005
+e328260521.802382
+r0
+xCompileC
+xbuild/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c328260521#328260521#0(1260"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c: In function 'main':/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c:12: warning: implicit declaration of function 'malloc'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c:12: warning: incompatible implicit declaration of built-in function 'malloc'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c:12: warning: assignment from incompatible pointer type/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c:19: warning: assignment from incompatible pointer type/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c:19: error: expected ';' before 'for'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c:5: warning: unused variable 'j'/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c:5: warning: unused variable 'i'7(22@41"Implicit declaration of function 'malloc'328260521#105#139#0(6@111"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c328260521#12#0#12#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'malloc'328260521#244#161#0(6@111"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c328260521#12#0#12#0#0"0(22@41"Assignment from incompatible pointer type328260521#405#139#0(6@111"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c328260521#12#0#12#0#41"assignment from incompatible pointer type0(22@41"Assignment from incompatible pointer type328260521#544#139#0(6@111"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c328260521#19#0#19#0#41"assignment from incompatible pointer type0(4@25"Expected ';' before 'for'328260521#683#121#0(6@111"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c328260521#19#0#19#0#19"expected * before *0(22@19"Unused variable 'j'328260521#804#116#0(6@111"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c328260521#5#0#5#0#19"unused variable '*'0(22@19"Unused variable 'i'328260521#920#116#0(6@111"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c328260521#5#0#5#0#19"unused variable '*'0(0#0#111"/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c8614102368#2394"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Graph-Vertex(筑波２０年)-generated-files.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Graph-Vertex(筑波２０年)-own-target-headers.hmap -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Graph-Vertex(筑波２０年)-all-target-headers.hmap -iquote /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Graph-Vertex(筑波２０年)-project-headers.hmap -F/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Debug -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Debug/include -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/DerivedSources/x86_64 -I/Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/DerivedSources -c /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/main.c -o /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Graph-Vertex(筑波２０年).build/Debug/Graph-Vertex(筑波２０年).build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/zehadyzbdullahkhan/Documents/algorithm/編入Cプログラム/Graph-Vertex(筑波２０年)/build/Debug/Graph-Vertex(筑波２０年) normal x86_64
+r0
+

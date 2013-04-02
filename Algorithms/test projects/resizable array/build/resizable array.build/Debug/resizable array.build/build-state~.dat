@@ -1,0 +1,58 @@
+Tresizable array
+v7
+r0
+t334204113.307412
+cCheck dependencies
+cCompileC "build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/resizable array
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/resizable array.LinkFileList
+c000000004E3B555000000000000000A1
+t1312511312
+s161
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp
+c000000004E3B55500000000000000227
+t1312511312
+s551
+i<iostream>
+i<stdio.h>
+i<vector>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334204112#334204112#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC "build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o" "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s334204112.939754
+e334204113.307343
+r0
+xCompileC
+xbuild/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#334204113#0(1419"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:3:2: error: invalid preprocessing directive #incldue/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:6: error: '::main' must return 'int'/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp: In function 'int main()':/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:8: error: 'vector' was not declared in this scope/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:8: error: expected primary-expression before 'int'/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:8: error: expected `;' before 'int'/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:10: error: 'v' was not declared in this scope/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:19: error: expected primary-expression before 'int'/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:19: error: expected `;' before 'int'/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:23: error: 'i' was not declared in this scope/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp:28: error: 'sort' was not declared in this scope10(4@40"Invalid preprocessing directive #incldue334204113#0#138#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#3#0#3#0#33"invalid preprocessing directive *0(4@26"'::main' must return 'int'334204113#138#122#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#6#0#6#0#0"0(4@39"'vector' was not declared in this scope334204113#372#135#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#8#0#8#0#34"'*' was not declared in this scope0(4@40"Expected primary-expression before 'int'334204113#507#136#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#8#0#8#0#19"expected * before *0(4@25"Expected `;' before 'int'334204113#643#121#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#8#0#8#0#19"expected * before *0(4@34"'v' was not declared in this scope334204113#764#131#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#10#0#10#0#34"'*' was not declared in this scope0(4@40"Expected primary-expression before 'int'334204113#895#137#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#19#0#19#0#19"expected * before *0(4@25"Expected `;' before 'int'334204113#1032#122#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#19#0#19#0#19"expected * before *0(4@34"'i' was not declared in this scope334204113#1154#131#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#23#0#23#0#34"'*' was not declared in this scope0(4@37"'sort' was not declared in this scope334204113#1285#134#0(6@84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp334204112#28#0#28#0#34"'*' was not declared in this scope0(0#0#84"/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp2334391151659477504#1864"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/resizable array-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/resizable array-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/resizable array-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/resizable array-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/resizable array.build/Debug/resizable array.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/test projects/resizable array/build/Debug/resizable array" normal x86_64
+r0
+

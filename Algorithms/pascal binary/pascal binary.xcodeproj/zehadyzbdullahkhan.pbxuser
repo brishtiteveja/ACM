@@ -1,0 +1,123 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F668B0F71350CC9500F983F1 /* pascal binary */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* pascal binary */;
+		codeSenseManager = F668B0FC1350CCB300F983F1 /* Code sense */;
+		executables = (
+			F668B0F71350CC9500F983F1 /* pascal binary */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324062357;
+			PBXWorkspaceStateSaveDate = 324062357;
+		};
+		perUserProjectItems = {
+			F668B13E1350D09200F983F1 /* XCBuildMessageTextBookmark */ = F668B13E1350D09200F983F1 /* XCBuildMessageTextBookmark */;
+			F668B15F1350DB8F00F983F1 /* PBXTextBookmark */ = F668B15F1350DB8F00F983F1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F668B0FB1350CCB300F983F1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1508}}";
+			sepNavSelRange = "{2024, 0}";
+			sepNavVisRange = "{1722, 333}";
+		};
+	};
+	8DD76FA90486AB0100D96B5E /* pascal binary */ = {
+		activeExec = 0;
+		executables = (
+			F668B0F71350CC9500F983F1 /* pascal binary */,
+		);
+	};
+	F668B0F71350CC9500F983F1 /* pascal binary */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "pascal binary";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F668B0FB1350CCB300F983F1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F668B0FC1350CCB300F983F1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F668B13E1350D09200F983F1 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Redefinition of 'pascal2'";
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 96;
+		rType = 1;
+	};
+	F668B15F1350DB8F00F983F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		name = "main.c: 117";
+		rLen = 0;
+		rLoc = 2024;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 1722;
+	};
+}

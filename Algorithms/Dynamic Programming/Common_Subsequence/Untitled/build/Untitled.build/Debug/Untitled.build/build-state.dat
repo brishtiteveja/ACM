@@ -1,0 +1,59 @@
+TUntitled
+v7
+r0
+t337281870.667409
+cCheck dependencies
+cCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/x86_64/main.o "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug/Untitled" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug/Untitled
+t1315589070
+s15976
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/x86_64/Untitled.LinkFileList
+c000000004E6A3A9D00000000000000A5
+t1315584669
+s165
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/x86_64/main.o
+t1315589070
+s73044
+
+N/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/main.cpp
+c000000004E6A4BCE00000000000004AB
+t1315589070
+s1195
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337281870#337281870#0(0"0(0#1#0"8614091840#0"0#
+
+CCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/x86_64/main.o "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s337281870.216909
+e337281870.629661
+r1
+xCompileC
+xbuild/Untitled.build/Debug/Untitled.build/Objects-normal/x86_64/main.o
+x/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/main.cpp337281870#337281870#0(0"0(0#0#102"/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/main.cpp8610593728#1936"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-generated-files.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-own-target-headers.hmap" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-all-target-headers.hmap" -iquote "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-project-headers.hmap" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug/include" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources/x86_64" "-I/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources" -c "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/main.cpp" -o "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug/Untitled" normal x86_64
+s337281870.629734
+e337281870.667362
+r1
+xLd
+x/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug/Untitled
+xnormal
+xx86_64
+lSLF07#2@119"Link /Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug/Untitled337281870#337281870#0(0"0(0#0#0"8614162720#787"    cd "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug" "-F/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug" -filelist "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/x86_64/Untitled.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/zehadyzbdullahkhan/Documents/algorithm/Dynamic Programming/Common_Subsequence/Untitled/build/Debug/Untitled"0#
+
